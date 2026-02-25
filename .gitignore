@@ -13,6 +13,9 @@ env/
 dist/
 build/
 
+# Agent config
+.agent/
+
 # Node
 node_modules/
 npm-debug.log*
